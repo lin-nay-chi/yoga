@@ -5,18 +5,17 @@
 :root {
   /* Colors */
   --background-color: #f8f7f2; /* Page background */
-  --text-color: #263d32;       /* Main text */
-  --muted-color: #657166;      /* Secondary text */
-  --primary-color: #284e3b;    /* Buttons */
-  --section-color: #e9ede3;    /* Light section background */
-  --border-color: #d8ddd1;     /* Header and footer borders */
+  --text-color: #263d32; /* Main text */
+  --muted-color: #657166; /* Secondary text */
+  --primary-color: #284e3b; /* Buttons */
+  --section-color: #e9ede3; /* Light section background */
+  --border-color: #d8ddd1; /* Header and footer borders */
 
   /* Common text sizes. Special sizes are written in their own rules. */
   --text-small: 10px;
   --text-medium: 12px;
   --text-normal: 15px;
 }
-
 
 /* Include padding and borders in the total width. */
 * {
